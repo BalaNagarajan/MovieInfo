@@ -29,5 +29,5 @@
 
 ### Other ###
 /logs/
-\.DS_Store
-*.idea
+logs
+.DS_Store
